@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Non Fungible Town](https://e-commerce-nft-vercel.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Whatever it's needed.**
 
-- 💬 Ask me about **React, Sequelize, Express, Axios**
+- 💬 Ask me about **Anything (i'll search for the answer)**
 
 - 📫 How to reach me **dmolinaro96@gmail.com**
 
